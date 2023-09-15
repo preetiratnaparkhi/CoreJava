@@ -8,6 +8,7 @@ public class First_Program {
 		System.out.println("Hello World");
 
 		int a = 10;
+		int s=9;
 		
 
 		int b = 29;
